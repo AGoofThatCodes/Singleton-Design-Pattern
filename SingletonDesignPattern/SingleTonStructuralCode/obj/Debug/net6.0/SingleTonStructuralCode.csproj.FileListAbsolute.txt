@@ -1,0 +1,15 @@
+C:\Users\KirstySelesho\Desktop\PersonalProjects\SingleTonStructuralCode\SingleTonStructuralCode\bin\Debug\net6.0\SingleTonStructuralCode.exe
+C:\Users\KirstySelesho\Desktop\PersonalProjects\SingleTonStructuralCode\SingleTonStructuralCode\bin\Debug\net6.0\SingleTonStructuralCode.deps.json
+C:\Users\KirstySelesho\Desktop\PersonalProjects\SingleTonStructuralCode\SingleTonStructuralCode\bin\Debug\net6.0\SingleTonStructuralCode.runtimeconfig.json
+C:\Users\KirstySelesho\Desktop\PersonalProjects\SingleTonStructuralCode\SingleTonStructuralCode\bin\Debug\net6.0\SingleTonStructuralCode.dll
+C:\Users\KirstySelesho\Desktop\PersonalProjects\SingleTonStructuralCode\SingleTonStructuralCode\bin\Debug\net6.0\ref\SingleTonStructuralCode.dll
+C:\Users\KirstySelesho\Desktop\PersonalProjects\SingleTonStructuralCode\SingleTonStructuralCode\bin\Debug\net6.0\SingleTonStructuralCode.pdb
+C:\Users\KirstySelesho\Desktop\PersonalProjects\SingleTonStructuralCode\SingleTonStructuralCode\obj\Debug\net6.0\SingleTonStructuralCode.csproj.AssemblyReference.cache
+C:\Users\KirstySelesho\Desktop\PersonalProjects\SingleTonStructuralCode\SingleTonStructuralCode\obj\Debug\net6.0\SingleTonStructuralCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KirstySelesho\Desktop\PersonalProjects\SingleTonStructuralCode\SingleTonStructuralCode\obj\Debug\net6.0\SingleTonStructuralCode.AssemblyInfoInputs.cache
+C:\Users\KirstySelesho\Desktop\PersonalProjects\SingleTonStructuralCode\SingleTonStructuralCode\obj\Debug\net6.0\SingleTonStructuralCode.AssemblyInfo.cs
+C:\Users\KirstySelesho\Desktop\PersonalProjects\SingleTonStructuralCode\SingleTonStructuralCode\obj\Debug\net6.0\SingleTonStructuralCode.csproj.CoreCompileInputs.cache
+C:\Users\KirstySelesho\Desktop\PersonalProjects\SingleTonStructuralCode\SingleTonStructuralCode\obj\Debug\net6.0\SingleTonStructuralCode.dll
+C:\Users\KirstySelesho\Desktop\PersonalProjects\SingleTonStructuralCode\SingleTonStructuralCode\obj\Debug\net6.0\ref\SingleTonStructuralCode.dll
+C:\Users\KirstySelesho\Desktop\PersonalProjects\SingleTonStructuralCode\SingleTonStructuralCode\obj\Debug\net6.0\SingleTonStructuralCode.pdb
+C:\Users\KirstySelesho\Desktop\PersonalProjects\SingleTonStructuralCode\SingleTonStructuralCode\obj\Debug\net6.0\SingleTonStructuralCode.genruntimeconfig.cache

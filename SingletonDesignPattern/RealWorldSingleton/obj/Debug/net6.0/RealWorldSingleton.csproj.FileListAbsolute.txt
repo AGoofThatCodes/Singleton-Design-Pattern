@@ -1,0 +1,15 @@
+C:\Users\KirstySelesho\Desktop\PersonalProjects\SingleTonStructuralCode\RealWorldSingleton\bin\Debug\net6.0\RealWorldSingleton.exe
+C:\Users\KirstySelesho\Desktop\PersonalProjects\SingleTonStructuralCode\RealWorldSingleton\bin\Debug\net6.0\RealWorldSingleton.deps.json
+C:\Users\KirstySelesho\Desktop\PersonalProjects\SingleTonStructuralCode\RealWorldSingleton\bin\Debug\net6.0\RealWorldSingleton.runtimeconfig.json
+C:\Users\KirstySelesho\Desktop\PersonalProjects\SingleTonStructuralCode\RealWorldSingleton\bin\Debug\net6.0\RealWorldSingleton.dll
+C:\Users\KirstySelesho\Desktop\PersonalProjects\SingleTonStructuralCode\RealWorldSingleton\bin\Debug\net6.0\ref\RealWorldSingleton.dll
+C:\Users\KirstySelesho\Desktop\PersonalProjects\SingleTonStructuralCode\RealWorldSingleton\bin\Debug\net6.0\RealWorldSingleton.pdb
+C:\Users\KirstySelesho\Desktop\PersonalProjects\SingleTonStructuralCode\RealWorldSingleton\obj\Debug\net6.0\RealWorldSingleton.csproj.AssemblyReference.cache
+C:\Users\KirstySelesho\Desktop\PersonalProjects\SingleTonStructuralCode\RealWorldSingleton\obj\Debug\net6.0\RealWorldSingleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KirstySelesho\Desktop\PersonalProjects\SingleTonStructuralCode\RealWorldSingleton\obj\Debug\net6.0\RealWorldSingleton.AssemblyInfoInputs.cache
+C:\Users\KirstySelesho\Desktop\PersonalProjects\SingleTonStructuralCode\RealWorldSingleton\obj\Debug\net6.0\RealWorldSingleton.AssemblyInfo.cs
+C:\Users\KirstySelesho\Desktop\PersonalProjects\SingleTonStructuralCode\RealWorldSingleton\obj\Debug\net6.0\RealWorldSingleton.csproj.CoreCompileInputs.cache
+C:\Users\KirstySelesho\Desktop\PersonalProjects\SingleTonStructuralCode\RealWorldSingleton\obj\Debug\net6.0\RealWorldSingleton.dll
+C:\Users\KirstySelesho\Desktop\PersonalProjects\SingleTonStructuralCode\RealWorldSingleton\obj\Debug\net6.0\ref\RealWorldSingleton.dll
+C:\Users\KirstySelesho\Desktop\PersonalProjects\SingleTonStructuralCode\RealWorldSingleton\obj\Debug\net6.0\RealWorldSingleton.pdb
+C:\Users\KirstySelesho\Desktop\PersonalProjects\SingleTonStructuralCode\RealWorldSingleton\obj\Debug\net6.0\RealWorldSingleton.genruntimeconfig.cache

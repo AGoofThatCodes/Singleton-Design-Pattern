@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5f021f78-8954-46d3-9585-27b38b179da8": {
+      "ProjectGuid": "5f021f78-8954-46d3-9585-27b38b179da8",
+      "DisplayName": "SingleTonStructuralCode",
+      "ColorIndex": 0
+    },
+    "320378bd-292c-44af-b337-1b4be0f2f87f": {
+      "ProjectGuid": "320378bd-292c-44af-b337-1b4be0f2f87f",
+      "DisplayName": "RealWorldSingleton",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
